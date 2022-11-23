@@ -90,7 +90,7 @@ if ((!isset($_SESSION['EMAIL']))) {
       </div>		 
 
       <div class="form-group">
-         <input type="submit"  name="update" class="btn btn-primary mt-2" value="update">
+         <input type="submit"  name="update" class="btn btn-primary mt-2" value="salvar">
       </div>
     </form>    
   </div>
